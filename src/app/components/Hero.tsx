@@ -134,7 +134,7 @@ export default function Hero() {
             >
               <motion.a
                 whileHover={{ scale: 1.1, y: -2 }}
-                href="https://github.com/sourabhpal"
+                href="https://github.com/100rbh51"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 transition-colors"
@@ -143,7 +143,7 @@ export default function Hero() {
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.1, y: -2 }}
-                href="https://linkedin.com/in/sourabhpal"
+                href="https://www.linkedin.com/in/saurabh-pal-325174395/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 transition-colors"
@@ -152,7 +152,7 @@ export default function Hero() {
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.1, y: -2 }}
-                href="mailto:sourabh@example.com"
+                href="mailto:100rbh51@gmail.com"
                 className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 transition-colors"
               >
                 <Mail className="w-5 h-5" />
