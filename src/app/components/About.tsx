@@ -34,7 +34,7 @@ export default function About() {
             className="space-y-6"
           >
             <h3 className="text-3xl font-bold">
-              Hi, I'm <span className="text-[#6366F1]">Sourabh Pal</span>
+              Hi, I'm <span className="text-[#6366F1]">Saurabh Pal</span>
             </h3>
             <p className="text-gray-300 leading-relaxed text-lg">
               I'm a passionate Computer Science Engineering student with a deep
@@ -87,7 +87,7 @@ export default function About() {
                   <p className="text-gray-400 mt-1">
                     Computer Science & Engineering
                   </p>
-                  <p className="text-gray-500 mt-2">2022 - 2026 (Expected)</p>
+                  <p className="text-gray-500 mt-2">2025 - 2029 (Expected)</p>
                 </div>
 
                 <div className="pt-4 border-t border-white/10">

@@ -12,6 +12,15 @@ const projects = [
     githubLink: "#",
   },
   {
+    title: "E-education  Platform",
+    description:
+      "A full-featured e-commerce platform with shopping cart, payment integration, and admin dashboard. Built with React, Node.js, and MongoDB.",
+    image: "project1",
+    technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+    liveLink: "github.com/avi7yt",
+    githubLink: "#",
+  },
+  {
     title: "Task Management App",
     description:
       "Intuitive task management application with drag-and-drop functionality, real-time updates, and team collaboration features.",

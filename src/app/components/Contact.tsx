@@ -78,7 +78,7 @@ export default function Contact() {
 
             <div className="space-y-6">
               <motion.a
-                href="mailto:sourabhpal@example.com"
+                href="mailto:100rbh51@gmail.com"
                 whileHover={{ x: 10 }}
                 className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors group"
               >
@@ -87,12 +87,12 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Email</p>
-                  <p className="font-medium">sourabhpal@example.com</p>
+                  <p className="font-medium">100rbh51@gmail.com</p>
                 </div>
               </motion.a>
 
               <motion.a
-                href="https://linkedin.com/in/sourabhpal"
+                href="https://www.linkedin.com/in/saurabh-pal-325174395/"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ x: 10 }}
@@ -103,12 +103,12 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">LinkedIn</p>
-                  <p className="font-medium">linkedin.com/in/sourabhpal</p>
+                  <p className="font-medium ">Saurabh Pal</p>
                 </div>
               </motion.a>
 
               <motion.a
-                href="https://github.com/sourabhpal"
+                href="https://github.com/100rbh51"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ x: 10 }}
@@ -119,7 +119,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">GitHub</p>
-                  <p className="font-medium">github.com/sourabhpal</p>
+                  <p className="font-medium">github.com/100rbh51</p>
                 </div>
               </motion.a>
 
