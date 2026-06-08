@@ -47,7 +47,7 @@ export default function Footer() {
             <div className="flex gap-4">
               <motion.a
                 whileHover={{ scale: 1.1, y: -2 }}
-                href="https://github.com/sourabhpal"
+                href="https://github.com/100rbh51"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 transition-colors"
@@ -56,7 +56,7 @@ export default function Footer() {
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.1, y: -2 }}
-                href="https://linkedin.com/in/sourabhpal"
+                href="https://www.linkedin.com/in/saurabh-pal-325174395/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 transition-colors"
@@ -65,7 +65,7 @@ export default function Footer() {
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.1, y: -2 }}
-                href="mailto:sourabhpal@example.com"
+                href="mailto:100rbh51@gmail.com"
                 className="p-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 transition-colors"
               >
                 <Mail className="w-5 h-5" />
@@ -107,13 +107,9 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-center items-center gap-4">
           <p className="text-gray-400 text-sm text-center md:text-left">
-            © {new Date().getFullYear()} Sourabh Pal. All rights reserved.
-          </p>
-          <p className="text-gray-400 text-sm flex items-center gap-2">
-            Built with <Heart className="w-4 h-4 fill-red-500 text-red-500" />{" "}
-            using React & Tailwind CSS
+            © {new Date().getFullYear()} Saurabh. All rights reserved.
           </p>
         </div>
       </div>

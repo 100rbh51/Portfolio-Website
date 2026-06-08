@@ -7,28 +7,28 @@ const testimonials = [
     name: "Sarah Johnson",
     role: "CEO, TechStart",
     content:
-      "Sourabh delivered an exceptional website for our startup. His attention to detail and modern design approach exceeded our expectations. Highly recommended!",
+      "Saurabh  delivered an exceptional website for our startup. His attention to detail and modern design approach exceeded our expectations. Highly recommended!",
     rating: 5,
   },
   {
     name: "Michael Chen",
     role: "Product Manager, InnovateCo",
     content:
-      "Working with Sourabh was a pleasure. He understood our requirements perfectly and delivered a responsive, fast-loading website that our users love.",
+      "Working with Saurabh  was a pleasure. He understood our requirements perfectly and delivered a responsive, fast-loading website that our users love.",
     rating: 5,
   },
   {
     name: "Emily Rodriguez",
     role: "Marketing Director, BrandHub",
     content:
-      "The landing page Sourabh created for our campaign was stunning. It converted 40% better than our previous page. Professional and talented developer!",
+      "The landing page Saurabh  created for our campaign was stunning. It converted 40% better than our previous page. Professional and talented developer!",
     rating: 5,
   },
   {
     name: "David Thompson",
     role: "Founder, DevStudio",
     content:
-      "Sourabh's React skills are impressive. He built a complex web application for us with clean code and smooth animations. Great communication throughout.",
+      "Saurabh 's React skills are impressive. He built a complex web application for us with clean code and smooth animations. Great communication throughout.",
     rating: 5,
   },
 ];
